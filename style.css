@@ -1,0 +1,16 @@
+ .container-fluid {
+    padding: 215px;  
+}
+
+body{
+  
+    background-image: url(https://images7.alphacoders.com/411/thumb-1920-411820.jpg);
+    margin: 0;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+   
+}
+
+.text-center {
+    color: white;
+}
